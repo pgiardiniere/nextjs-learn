@@ -1,0 +1,16 @@
+Thoughts on 1-week with react
+
+
+6/12/23
+
+NEXTJS LEARN modules:
+  From JavaScript to React:
+    GOD there are so many RULES.
+    This developer experience is fucking atrocious.
+    I would much rather just work in Flutter web, Svelte, god just anything else
+
+    It destroys the workflow having to remember when to capitalize functions, components,
+    all this stuff is just rote memorization. It's truly bad.
+
+
+
